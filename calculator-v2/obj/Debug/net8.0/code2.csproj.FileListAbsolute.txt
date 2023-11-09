@@ -1,0 +1,15 @@
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\bin\Debug\net8.0\code2.exe
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\bin\Debug\net8.0\code2.deps.json
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\bin\Debug\net8.0\code2.runtimeconfig.json
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\bin\Debug\net8.0\code2.dll
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\bin\Debug\net8.0\code2.pdb
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\code2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\code2.AssemblyInfoInputs.cache
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\code2.AssemblyInfo.cs
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\code2.csproj.CoreCompileInputs.cache
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\code2.sourcelink.json
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\code2.dll
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\refint\code2.dll
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\code2.pdb
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\code2.genruntimeconfig.cache
+C:\Users\acers\Documents\Workspace-reading\Raief\code2\obj\Debug\net8.0\ref\code2.dll

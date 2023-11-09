@@ -1,0 +1,15 @@
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\bin\Debug\net8.0\code3.exe
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\bin\Debug\net8.0\code3.deps.json
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\bin\Debug\net8.0\code3.runtimeconfig.json
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\bin\Debug\net8.0\code3.dll
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\bin\Debug\net8.0\code3.pdb
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\code3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\code3.AssemblyInfoInputs.cache
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\code3.AssemblyInfo.cs
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\code3.csproj.CoreCompileInputs.cache
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\code3.sourcelink.json
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\code3.dll
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\refint\code3.dll
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\code3.pdb
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\code3.genruntimeconfig.cache
+C:\Users\acers\Documents\Workspace-reading\Raief\code3\obj\Debug\net8.0\ref\code3.dll
